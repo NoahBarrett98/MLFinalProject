@@ -1,0 +1,1 @@
+This is a subset of the actual data folder, the entire data folder including the model checkpoints and complete training/testing datasets. 
